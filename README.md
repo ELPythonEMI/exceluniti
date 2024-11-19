@@ -31,7 +31,7 @@ git clone https://github.com/tuo-username/exceluniti.git
 cd exceluniti
 
 bash
-python excel_uniti.py
+python exceluniti.py
 
 Passaggi nell'interfaccia:
 
