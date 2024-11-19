@@ -21,31 +21,22 @@ Assicurati di avere installati i seguenti strumenti e librerie:
 Installa le librerie necessarie con il seguente comando:
 ```bash
 pip install pandas openpyxl
+
 📂 Come utilizzare l'app
 Clona il repository:
 
-bash
-Copia codice
 git clone https://github.com/tuo-username/exceluniti.git
 cd exceluniti
-Esegui il programma:
 
 bash
-Copia codice
-python exceluniti.py
+python excel_uniti.py
+
 Passaggi nell'interfaccia:
 
 Fai clic su "📂 Seleziona cartella con file Excel" per scegliere la cartella con i file Excel.
 Fai clic su "💾 Scegli dove salvare il file unito" per specificare il file di output.
 Premi "🔗 Unisci i file" per combinare i dati in un unico file.
 Output: Troverai il file Excel unito nella posizione selezionata.
-
-🎨 Interfaccia grafica
-L'app presenta una GUI moderna con i seguenti elementi:
-
-Intestazione colorata con un titolo chiaro e professionale.
-Pulsanti migliorati con colori e icone emoji per un'esperienza utente più piacevole.
-Una dicitura di credito in basso: "Realizzato da ELpythonEMI".
 
 🤝 Contributi
 Se vuoi contribuire al progetto, sentiti libero di aprire un'Issue o di fare un Pull Request.
