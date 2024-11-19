@@ -1,5 +1,7 @@
 # 📊 Exceluniti - Realizzato da ELpythonEMI
 ![Screenshot dell'applicazione](screenshot.png)
+
+
 **Exceluniti** è un'applicazione Python user-friendly che consente di unire i dati provenienti da più file Excel in una cartella e di salvarli in un unico file. Grazie alla sua interfaccia grafica semplice e intuitiva, realizzata con Tkinter, è adatta a utenti di ogni livello!
 
 ## 🚀 Funzionalità
